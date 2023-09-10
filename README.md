@@ -53,15 +53,18 @@ Here are a few tools and languages i have been exposed to and worked with during
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanLindeque&show_icons=true&theme=algolia)
 
 #
-<details>
- <summary><h3>👨‍💻 My Coding Journey thus far</h3></summary>
-             Started coding...
+
+### 📫 Contact Me
+
+- 📧 Email: johanlindeque34@gmail.com
+- 💼 LinkedIn: [Johan lindeque](https://www.linkedin.com/in/johan-lindeque/)
+- 🌏 Website: [Johan lindeque](https://johanlindeque.github.io/JohanLindeque/)
+
+Feel free to reach out if you want to collaborate on a project, have questions, or just want to connect! 😄
 
 
 ---
-[website]: https://johanlindeque.github.io/JohanLindeque/
-[linkedin]: https://www.linkedin.com/in/johan-lindeque/
-          
+
           
           
 
