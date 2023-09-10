@@ -14,7 +14,7 @@ to become a valuable asset to any company.
 Here are a few tools and languages i have been exposed to and worked with during my studies and a few personal projects:
 
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
             
           
 
