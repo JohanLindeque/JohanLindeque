@@ -16,6 +16,7 @@ Here are a few tools and languages i have been exposed to and worked with during
 
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+          
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
 <img align="left" alt="csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -48,7 +49,8 @@ Here are a few tools and languages i have been exposed to and worked with during
 
 #
 ### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanLindeque)](https://github.com/anuraghazra/github-readme-stats&theme=algolia)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanLindeque&show_icons=true&theme=algolia)
 
 #
 <details>
