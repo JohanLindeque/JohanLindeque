@@ -52,12 +52,12 @@ Here are a few tools and languages i have been exposed to and worked with during
 
  
 ### Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLindeque&theme=algolia&layout=compact">  
-</div>
-#
 
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanLindeque&show_icons=true&hide=contribs,stars&theme=algolia)       
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLindeque&theme=algolia&layout=compact">  
+
+#
+     
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api??username=JohanLindeque&show_icons=true&hide=contribs,stars&theme=algolia)
 
 
 #
