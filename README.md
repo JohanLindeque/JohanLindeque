@@ -50,7 +50,7 @@ Here are a few tools and languages i have been exposed to and worked with during
 
 #
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLindeque&theme=apprentice&layout=compact&hide=eagle">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLindeque&theme=algolia&layout=compact&exclude_repo=PRG281_Project">  
 </div>
  
 ### Stats
