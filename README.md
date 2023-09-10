@@ -56,9 +56,9 @@ Here are a few tools and languages i have been exposed to and worked with during
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanLindeque&theme=algolia&layout=compact">  
 </div>
 #
-<div>
+
    (https://github-readme-stats.vercel.app/api?username=JohanLindeque&show_icons=true&hide=contribs,stars&theme=algolia)       
-</div>
+
 
 #
 
