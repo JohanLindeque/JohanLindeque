@@ -57,7 +57,7 @@ Here are a few tools and languages i have been exposed to and worked with during
 
 #
      
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api??username=JohanLindeque&show_icons=true&hide=contribs,stars&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanLindeque&show_icons=true&hide=contribs,stars&theme=algolia)
 
 
 #
