@@ -1,7 +1,7 @@
 # 🚵‍♂️ Johan Lindeque
 
 **`A Digital Craftsman in the making`**
-
+ 
 Iam currently a 3rd year student at Belgium Campus ITversity
 working on my Bachelor of Computing, aspiring to become a full stack
 developer. With a passion for finding creative solutions to problems. I strive
