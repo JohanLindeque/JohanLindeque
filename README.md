@@ -2,7 +2,7 @@
 
 **`A Digital Craftsman in the making`**
  
-Iam currently a 3rd year student at Belgium Campus ITversity
+Iam currently a 4th year student at Belgium Campus ITversity
 working on my Bachelor of Computing, aspiring to become a full stack
 developer. With a passion for finding creative solutions to problems. I strive
 to complete my studies and use my knowledge and skills
