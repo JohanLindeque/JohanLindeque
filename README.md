@@ -59,7 +59,6 @@ Here are a few tools and languages i have been exposed to and worked with during
 
 ### 📫 Contact Me
 
-- 📧 Email: johanlindeque34@gmail.com
 - 💼 LinkedIn: [Johan lindeque](https://www.linkedin.com/in/johan-lindeque/)
 - 🌏 Website: [Johan lindeque](https://johanlindeque.github.io/Johan-Lindeque/)
 
