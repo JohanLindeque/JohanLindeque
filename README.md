@@ -2,7 +2,7 @@
 
 **`A Digital Craftsman in the making`**
  
-Iam currently a jnt Software engineer, aspiring to become a .Net
+Iam currently a Jnr. Software engineer, aspiring to become a .Net
 developer. With a passion for finding creative solutions to problems. I strive
 to complete my studies and use my knowledge and skills
 to become a valuable asset to any company.
