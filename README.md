@@ -1,12 +1,10 @@
-# 🚵‍♂️ Johan Lindeque
+# Johan Lindeque
 
 **`A Digital Craftsman in the making`**
  
-Iam currently a Jnr. Software engineer, aspiring to become a .Net
-developer. With a passion for finding creative solutions to problems. I strive
-to complete my studies and use my knowledge and skills
-to become a valuable asset to any company.
-
+Hi, I’m Johan Lindeque, a Software Engineer who loves building things that make a difference. I work mainly with Business Central, 
+as well as C# and .NET, creating tools and extensions that simplify work and solve real problems.
+What drives me is finding creative ways to make technology work smarter for people and businesses.
 ---
 
 ### 🧰 Languages and Tools
