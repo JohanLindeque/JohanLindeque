@@ -1,7 +1,8 @@
 # Johan Lindeque
 
 **`A Digital Craftsman in the making`**
- 
+---
+
 Hi, I’m Johan Lindeque, a Software Engineer who loves building things that make a difference. I work mainly with Business Central, 
 as well as C# and .NET, creating tools and extensions that simplify work and solve real problems.
 What drives me is finding creative ways to make technology work smarter for people and businesses.
@@ -59,7 +60,7 @@ Here are a few tools and languages i have been exposed to and worked with during
 - 💼 LinkedIn: [Johan lindeque](https://www.linkedin.com/in/johan-lindeque/)
 - 🌏 Website: [Johan lindeque](https://johanlindeque.github.io/Johan-Lindeque/)
 
-Feel free to reach out if you want to collaborate on a project, have questions, or just want to connect! 😄
+Feel free to reach out if you want to collaborate on a project, have questions, or just want to connect! 
 
 
 
