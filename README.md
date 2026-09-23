@@ -6,6 +6,7 @@
 Hi, I’m Johan Lindeque, a Software Engineer who loves building things that make a difference. I work mainly with Business Central, 
 as well as C# and .NET, creating tools and extensions that simplify work and solve real problems.
 What drives me is finding creative ways to make technology work smarter for people and businesses.
+
 ---
 
 ### 🧰 Languages and Tools
